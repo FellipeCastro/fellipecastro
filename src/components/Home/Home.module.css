@@ -1,0 +1,33 @@
+.home {
+    display: grid;
+    place-items: center;
+    background-color: #021a94;
+    background: linear-gradient(45deg, #021a94, #02b2fb);
+    position: relative;
+}
+
+.textContainer {
+    color: #fff;
+    text-align: left;
+}
+
+.textContainer h2 {
+    font-size: 1.2rem;
+}
+
+.textContainer h1 {
+    font-size: 6rem;
+    text-transform: uppercase;
+}
+
+.textContainer span {
+    font-weight: bold;
+}
+
+.name {
+    color: #fff;
+    font-size: 1.2rem;
+    position: absolute;
+    left: 2rem;
+    bottom: 1rem;
+}
