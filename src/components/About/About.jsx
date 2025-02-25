@@ -1,10 +1,10 @@
-import styles from "./About.module.css";
 import html from "../../assets/skills/html-5.png";
 import css from "../../assets/skills/css-3.png";
 import javascript from "../../assets/skills/js.png";
 import react from "../../assets/skills/react-js.png";
 import node from "../../assets/skills/node-js.png";
 import mysql from "../../assets/skills/mysql.png";
+import styles from "./About.module.css";
 
 function About() {
     return (

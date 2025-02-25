@@ -1,5 +1,5 @@
 .about {
-    padding: 1rem 2rem;
+    padding: 2rem;
 }
 
 .flexContainer {
@@ -68,5 +68,6 @@
 }
 
 .skill span {
+    font-size: 0.8rem;
     font-weight: bold;
 }
