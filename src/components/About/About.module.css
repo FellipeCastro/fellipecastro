@@ -1,0 +1,31 @@
+.about {
+    padding: 1rem 2rem;
+}
+
+.flexContainer {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.flexContainer img {
+    width: 30%;
+    height: 300px;
+    object-fit: cover;
+    background-color: lightgray;
+    border-radius: 50%;
+}
+
+.textContainer {
+    width: 100%;
+}
+
+.textContainer h2 {
+    margin-bottom: 0.6rem;
+    color: #222;
+}
+
+.textContainer p {
+    margin-bottom: 0.6rem;
+    color: #7a7a7a;
+}
