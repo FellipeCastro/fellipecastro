@@ -29,3 +29,44 @@
     margin-bottom: 0.6rem;
     color: #7a7a7a;
 }
+
+.skills {
+    width: 100%;
+    margin-top: 2rem;
+}
+
+.skills fieldset {
+    width: 100%;
+    padding: 1rem;
+    color: #7a7a7a;
+    border-radius: 0.2rem;
+}
+
+.skills legend {
+    color: #222;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 0 0.5rem;
+}
+
+.skillsList {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+}
+
+.skill {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0.6rem;
+}
+
+.skill img {
+    width: 60px;
+}
+
+.skill span {
+    font-weight: bold;
+}

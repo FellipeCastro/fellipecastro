@@ -1,4 +1,10 @@
 import styles from "./About.module.css";
+import html from "../../assets/skills/html-5.png";
+import css from "../../assets/skills/css-3.png";
+import javascript from "../../assets/skills/js.png";
+import react from "../../assets/skills/react-js.png";
+import node from "../../assets/skills/node-js.png";
+import mysql from "../../assets/skills/mysql.png";
 
 function About() {
     return (
@@ -7,7 +13,7 @@ function About() {
                 <img src="" alt="" />
 
                 <div className={styles.textContainer}>
-                    <h2>Olá! Me chamo Fellipe</h2>
+                    <h2>Olá Mundo!</h2>
                     <p>
                         Lorem ipsum dolor, sit amet consectetur adipisicing
                         elit. Consectetur ipsam error rerum repellat, eius
@@ -24,6 +30,37 @@ function About() {
                         optio fuga?
                     </p>
                 </div>
+            </div>
+            <div className={styles.skills}>
+                <fieldset>
+                    <legend>Habilidades</legend>
+                    <div className={styles.skillsList}>
+                        <div className={styles.skill}>
+                            <img src={html} alt="HTML 5" />
+                            <span>HTML 5</span>
+                        </div>
+                        <div className={styles.skill}>
+                            <img src={css} alt="CSS 3" />
+                            <span>CSS 3</span>
+                        </div>
+                        <div className={styles.skill}>
+                            <img src={javascript} alt="Javascript" />
+                            <span>Javascript</span>
+                        </div>
+                        <div className={styles.skill}>
+                            <img src={react} alt="React js" />
+                            <span>React js</span>
+                        </div>
+                        <div className={styles.skill}>
+                            <img src={node} alt="Node js" />
+                            <span>Node js</span>
+                        </div>
+                        <div className={styles.skill}>
+                            <img src={mysql} alt="MySQL" />
+                            <span>MySQL</span>
+                        </div>
+                    </div>
+                </fieldset>
             </div>
         </section>
     );
