@@ -37,9 +37,14 @@
     border-bottom: 0.15rem solid #aaa;
 }
 
+.project:nth-child(even) {
+    flex-direction: row-reverse;
+}
+
 .project img {
     width: 50%;
     border-radius: 0.4rem;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
 }
 
 .textContainer {
@@ -67,7 +72,7 @@
     padding: 0.4rem 0.8rem;
     border-radius: 2rem;
     background-color: #e5e7eb;
-    color: #4b5563;
+    color: #333;
     font-weight: bold;
     font-size: 0.8rem;
 }
@@ -82,5 +87,10 @@
     padding: 0.4rem;
     font-size: 1.4rem;
     text-decoration: none;
-    color: #4b5563;
+    color: #333;
+    transition: 0.5s;
+}
+
+.links a:hover {
+    color: #888;
 }

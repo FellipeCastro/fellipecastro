@@ -1,18 +1,33 @@
+import { FaGithub, FaLinkedinIn } from "react-icons/fa";
 import styles from "./Home.module.css";
 
 function Home() {
     return (
         <section className={styles.home}>
             <div className={styles.textContainer}>
-                <h2>Desenvolvedor Fullstack</h2>
-                <h1>Portfolio</h1>
-                <span>2025</span>
+                <span>Olá, me chamo</span>
+                <h1>Fellipe Castro</h1>
+                <div className={styles.flexContainer}>
+                    <span>Desenvolvedor Fullstack</span>
+
+                    <div className={styles.links}>
+                        <a
+                            href="https://github.com/FellipeCastro"
+                            target="_blank"
+                        >
+                            <FaGithub />
+                        </a>
+                        <a
+                            href="https://www.linkedin.com/in/fellipe-castro-ab764a2a7/"
+                            target="_blank"
+                        >
+                            <FaLinkedinIn />
+                        </a>
+                    </div>
+                </div>
             </div>
-            <h2 className={styles.name}>
-                Fellipe Castro
-            </h2>
         </section>
-    )
+    );
 }
 
 export default Home;

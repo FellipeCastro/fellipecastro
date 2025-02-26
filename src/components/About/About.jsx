@@ -4,6 +4,8 @@ import javascript from "../../assets/skills/js.png";
 import react from "../../assets/skills/react-js.png";
 import node from "../../assets/skills/node-js.png";
 import mysql from "../../assets/skills/mysql.png";
+import git from "../../assets/skills/git.png";
+import github from "../../assets/skills/github.png";
 import styles from "./About.module.css";
 
 function About() {
@@ -15,19 +17,22 @@ function About() {
                 <div className={styles.textContainer}>
                     <h2>Olá Mundo!</h2>
                     <p>
-                        Lorem ipsum dolor, sit amet consectetur adipisicing
-                        elit. Consectetur ipsam error rerum repellat, eius
-                        inventore alias consequatur eveniet. Ullam, quidem.
-                        Dolorem veniam in itaque ut voluptate, ipsum fugit hic
-                        expedita.
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Esse exercitationem obcaecati eveniet possimus fugiat ratione mollitia minima id rem neque et delectus autem optio quod beatae aliquid nostrum, sint amet.
+                        Me chamo <strong>Fellipe da Silva Castro</strong>, tenho 17 anos e estou
+                        cursando o curso técnico em informática para internet na
+                        <strong>ETEC</strong>. Há dois anos, entrei no mundo da programação e,
+                        atualmente, atuo como desenvolvedor <strong>fullstack</strong>, com foco
+                        no front-end usando <strong>React.js</strong> e no back-end com <strong>Node.js</strong> e
+                        <strong>MySQL</strong>. Além dos estudos técnicos, estou aprimorando meu
+                        inglês no <strong>CNA</strong>, alcançando um nível intermediário.
                     </p>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Alias recusandae illo accusantium! Deleniti quisquam
-                        culpa recusandae accusamus qui itaque quis harum
-                        voluptate officiis maxime omnis, dolore voluptas in
-                        optio fuga?
+                        Sou apaixonado pela resolução de problemas e pela
+                        colaboração com outros entusiastas de tecnologia.
+                        Acredito que a inovação surge da troca de ideias e da
+                        busca constante por novos conhecimentos. Estou
+                        entusiasmado em continuar explorando o mundo da
+                        programação e contribuir com soluções criativas e
+                        impactantes.
                     </p>
                 </div>
             </div>
@@ -58,6 +63,14 @@ function About() {
                         <div className={styles.skill}>
                             <img src={mysql} alt="MySQL" />
                             <span>MySQL</span>
+                        </div>
+                        <div className={styles.skill}>
+                            <img src={git} alt="Git" />
+                            <span>Git</span>
+                        </div>
+                        <div className={styles.skill}>
+                            <img src={github} alt="GitHub" />
+                            <span>GitHub</span>
                         </div>
                     </div>
                 </fieldset>

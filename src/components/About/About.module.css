@@ -9,7 +9,7 @@
 }
 
 .flexContainer img {
-    width: 30%;
+    width: 400px;
     height: 300px;
     object-fit: cover;
     background-color: lightgray;
@@ -37,7 +37,7 @@
 
 .skills fieldset {
     width: 100%;
-    padding: 1rem;
+    padding: 2rem;
     color: #7a7a7a;
     border-radius: 0.2rem;
 }
@@ -46,13 +46,13 @@
     color: #222;
     font-size: 1.2rem;
     font-weight: bold;
-    padding: 0 0.5rem;
+    padding: 0 1rem;
 }
 
 .skillsList {
     width: 100%;
     display: grid;
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(8, 1fr);
 }
 
 .skill {
@@ -60,7 +60,7 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    gap: 0.6rem;
+    gap: 1rem;
 }
 
 .skill img {

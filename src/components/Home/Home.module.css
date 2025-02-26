@@ -5,31 +5,41 @@
     background-color: #021a94;
     background: linear-gradient(45deg, #021a94, #02b2fb);
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.4);
-    position: relative;
 }
 
 .textContainer {
     color: #fff;
-    text-align: left;
 }
 
-.textContainer h2 {
+.textContainer span {
     font-size: 1.2rem;
+    font-weight: bold;
 }
 
 .textContainer h1 {
     font-size: 6rem;
-    text-transform: uppercase;
 }
 
-.textContainer span {
-    font-weight: bold;
+.flexContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
-.name {
+.links {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+.links a {
+    padding: 0.4rem;
+    font-size: 2rem;
+    text-decoration: none;
     color: #fff;
-    font-size: 1.2rem;
-    position: absolute;
-    left: 2rem;
-    bottom: 1rem;
+    transition: 0.5s;
+}
+
+.links a:hover {
+    color: #ddd;
 }
