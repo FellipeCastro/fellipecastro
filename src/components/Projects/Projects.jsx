@@ -32,12 +32,16 @@ function Projects() {
                                     )}
                                 </div>
                                 <div className={styles.links}>
-                                    <a href={project.link} target="_blank">
-                                        <FiExternalLink />
-                                    </a>
-                                    <a href={project.code} target="_blank">
-                                        <FaCode />
-                                    </a>
+                                    <abbr title="Site">
+                                        <a href={project.link} target="_blank">
+                                            <FiExternalLink />
+                                        </a>
+                                    </abbr>
+                                    <abbr title="Código">
+                                        <a href={project.code} target="_blank">
+                                            <FaCode />
+                                        </a>
+                                    </abbr>
                                 </div>
                             </div>
                         </div>
