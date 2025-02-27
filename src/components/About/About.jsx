@@ -10,7 +10,7 @@ import styles from "./About.module.css";
 
 function About() {
     return (
-        <section className={styles.about}>
+        <section className={styles.about} id="about">
             <div className={styles.flexContainer}>
                 <img src="" alt="" />
 

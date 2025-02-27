@@ -3,7 +3,7 @@ import styles from "./Home.module.css";
 
 function Home() {
     return (
-        <section className={styles.home}>
+        <section className={styles.home} id="home">
             <div className={styles.textContainer}>
                 <span>Olá, me chamo</span>
                 <h1>Fellipe Castro</h1>

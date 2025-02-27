@@ -42,4 +42,5 @@
 
 .links a:hover {
     color: #ddd;
+    transform: translateY(-0.2rem);
 }

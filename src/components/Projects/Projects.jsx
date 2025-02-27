@@ -5,7 +5,7 @@ import styles from "./Projects.module.css";
 
 function Projects() {
     return (
-        <section className={styles.projects}>
+        <section className={styles.projects} id="projects">
             <div className={styles.title}>
                 <h2>Meus Projetos</h2>
                 <hr />
