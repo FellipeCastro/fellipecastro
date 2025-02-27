@@ -26,6 +26,9 @@ function Home() {
                     </div>
                 </div>
             </div>
+            <a href="#about" className={styles.btn}>
+                Sobre mim
+            </a>
         </section>
     );
 }

@@ -5,6 +5,7 @@
     background-color: #021a94;
     background: linear-gradient(45deg, #021a94, #02b2fb);
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.4);
+    position: relative;
 }
 
 .textContainer {
@@ -43,4 +44,24 @@
 .links a:hover {
     color: #ddd;
     transform: translateY(-0.2rem);
+}
+
+.btn {
+    position: absolute;
+    left: 2rem;
+    bottom: 2rem;
+    padding: 1rem 2rem;
+    border: 0.1rem solid #fff;
+    border-radius: 2rem;
+    background-color: transparent;
+    color: #fff;
+    font-size: 0.8rem;
+    font-weight: bold;
+    text-decoration: none;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.btn:hover {
+    transform: translateY(-0.4rem);
 }
