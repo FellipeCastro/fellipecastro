@@ -9,8 +9,9 @@
 }
 
 .flexContainer img {
-    width: 400px;
+    width: 300px;
     height: 300px;
+    filter: grayscale(1.0);
     object-fit: cover;
     background-color: #d3d3d3;
     border-radius: 50%;

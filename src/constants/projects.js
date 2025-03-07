@@ -1,7 +1,7 @@
-import cellphoneStore from "./assets/projects/cellphone-store.png";
-import devBurger from "./assets/projects/dev-burger.png";
-import taskManager from "./assets/projects/task-manager.png";
-import todoList from "./assets/projects/todo-list.png";
+import cellphoneStore from "../assets/projects/cellphone-store.png";
+import devBurger from "../assets/projects/dev-burger.png";
+import taskManager from "../assets/projects/task-manager.png";
+import todoList from "../assets/projects/todo-list.png";
 
 const projects = [
     {

@@ -1,6 +1,6 @@
 import { FiExternalLink } from "react-icons/fi";
 import { FaCode } from "react-icons/fa6";
-import projects from "../../projects";
+import projects from "../../constants/projects";
 import styles from "./Projects.module.css";
 
 function Projects() {
