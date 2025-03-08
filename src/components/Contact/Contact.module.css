@@ -1,5 +1,5 @@
 .contact {
-    padding: 5% 2%;
+    padding: 5% 2rem;
 }
 
 .container {
@@ -48,6 +48,20 @@
     font-weight: bold;
 }
 
+@media (max-width: 992px) {
+    .container {
+        padding: 3rem 2rem;
+    }
+
+    .textContainer h2 {
+        font-size: 1.6rem;
+    }
+
+    .emailContainer span {
+        font-size: 1.2rem;
+    }
+}
+
 @media (max-width: 768px) {
     .container {
         display: flex;
@@ -57,8 +71,16 @@
         padding: 2em;
     }
 
+    .textContainer h2 {
+        font-size: 1.4rem;
+    }
+
     .emailContainer {
         width: 100%;
+    }
+
+    .emailContainer span {
+        font-size: 1rem;
     }
 }
 

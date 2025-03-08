@@ -1,6 +1,6 @@
+import { useState } from "react";
 import { IoCopy } from "react-icons/io5";
 import styles from "./Contact.module.css";
-import { useState } from "react";
 
 function Contact() {
     const [emailCopied, setEmailCopied] = useState(false); 
