@@ -69,6 +69,10 @@
     .textContainer h1 {
         font-size: 5rem;
     }
+
+    .links a {
+        font-size: 1.6rem;
+    }
 }
 
 @media (max-width: 400px) {
