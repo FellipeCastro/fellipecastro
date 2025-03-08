@@ -1,5 +1,6 @@
 .projects {
-    padding: 2rem;
+    margin-top: 2rem;
+    padding: 0 2rem;
 }
 
 .title {
@@ -18,7 +19,9 @@
 
 .title hr {
     width: 100%;
-    border: 1.4px solid #aaa;
+    height: 2px;
+    background-color: #aaa;
+    border: none;
 }
 
 .projectsContainer {
@@ -34,7 +37,7 @@
     align-items: stretch;
     gap: 1rem;
     padding-bottom: 2rem;
-    border-bottom: 0.15rem solid #aaa;
+    border-bottom: 2px solid #aaa;
 }
 
 .project:nth-child(even) {
