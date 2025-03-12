@@ -15,7 +15,7 @@ function Contact() {
     };
 
     return (
-        <section className={styles.contact} id="contact">
+        <section className={styles.contact}>
             <div className={styles.container}>
                 <div className={styles.textContainer}>
                     <h2>Entre em contato comigo!</h2>

@@ -3,7 +3,7 @@ import styles from "./Home.module.css";
 
 function Home() {
     return (
-        <section className={styles.home} id="home">
+        <section className={styles.home}>
             <div className={styles.textContainer}>
                 <span>Olá, me chamo</span>
                 <h1>Fellipe Castro</h1>
@@ -26,7 +26,7 @@ function Home() {
                     </div>
                 </div>
             </div>
-            <a href="#about" className={styles.btn}>
+            <a href="#portfolio" className={styles.btn}>
                 Sobre mim
             </a>
         </section>
