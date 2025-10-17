@@ -1,17 +1,33 @@
 import cellphoneStore from "../assets/projects/cellphone-store.png";
 import devBurger from "../assets/projects/dev-burger.png";
 import taskManager from "../assets/projects/task-manager.png";
-import todoList from "../assets/projects/todo-list.png";
+import flashfy from "../assets/projects/flashfy.png";
 
 const projects = [
+    {
+        name: "FlashFy",
+        src: flashfy,
+        link: "https://flashfy-theta.vercel.app/",
+        code: "https://github.com/FellipeCastro/flashfy",
+        description:
+            "FlashFy é uma plataforma de estudos inteligente desenvolvida com React.js e Node.js. Oferece um sistema de flashcards com algoritmo de repetição espaçada, onde o usuário classifica a dificuldade de cada card para otimizar o agendamento de revisões. Inclui geração de questões por IA via Gemini API, permitindo criar quizzes personalizados por tema e dificuldade. A aplicação garante uma experiência de aprendizado adaptativa e eficiente para fixação de conteúdo.",
+        technologies: [
+            "React js",
+            "Node js",
+            "Sequelize",
+            "Gemini API",
+            "Git",
+            "GitHub",
+        ],
+    },
     {
         name: "TaskManager",
         src: taskManager,
         link: "https://task-manager-web-tau.vercel.app/",
         code: "https://github.com/FellipeCastro/task-manager",
         description:
-            "TaskManager é uma plataforma de gerenciamento de tarefas desenvolvida com React.js e Node.js. Permite criar boards personalizados com tarefas e subtarefas, atualizando o status da tarefa principal conforme as subtarefas são concluídas. A integração com MySQL garante persistência de dados, e o versionamento é feito via Git e GitHub, proporcionando uma gestão de atividades fluida e eficiente.",
-        technologies: ["React js", "Node js", "MySQL", "Git", "GitHub"],
+            "TaskManager é uma plataforma de gerenciamento de tarefas desenvolvida com React.js e Node.js. Permite criar boards personalizados com tarefas e subtarefas, atualizando o status da tarefa principal conforme as subtarefas são concluídas. A integração com Sequelize, utilizando o Supabase, garante persistência de dados, e o versionamento é feito via Git e GitHub, proporcionando uma gestão de atividades fluida e eficiente.",
+        technologies: ["React js", "Node js", "Sequelize", "Git", "GitHub"],
     },
     {
         name: "Dev Burger",
@@ -30,15 +46,6 @@ const projects = [
         description:
             "Cellphone Store é uma loja online desenvolvida com React.js e conectada à API do Mercado Livre. A aplicação permite adicionar e remover produtos do carrinho com total dinâmico, além de oferecer filtros para facilitar a busca. A interface é simples, responsiva e focada em proporcionar uma experiência de compra ágil e prática.",
         technologies: ["React js", "API", "Git", "GitHub"],
-    },
-    {
-        name: "Todo List",
-        src: todoList,
-        link: "https://fellipecastro.github.io/todo-list-react/",
-        code: "https://github.com/FellipeCastro/todo-list-react",
-        description:
-            "Todo List é uma aplicação simples e funcional criada com React.js, permitindo organizar tarefas com modos claro/escuro, filtros personalizados e gerenciamento fácil de atividades. A interface é minimalista e focada na produtividade, facilitando o acompanhamento do que precisa ser feito ao longo do dia.",
-        technologies: ["React js", "Git", "GitHub"],
     },
 ];
 

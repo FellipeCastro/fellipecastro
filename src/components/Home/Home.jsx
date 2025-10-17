@@ -18,7 +18,7 @@ function Home() {
                             <FaGithub />
                         </a>
                         <a
-                            href="https://www.linkedin.com/in/fellipe-castro-ab764a2a7/"
+                            href="https://linkedin.com/in/fellipecastro27"
                             target="_blank"
                         >
                             <FaLinkedinIn />
