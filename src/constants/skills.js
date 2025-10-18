@@ -3,9 +3,9 @@ import css from "../assets/skills/css-3.png";
 import javascript from "../assets/skills/js.png";
 import react from "../assets/skills/react-js.png";
 import node from "../assets/skills/node-js.png";
+import sequelize from "../assets/skills/sequelize.png"
 import mysql from "../assets/skills/mysql.png";
 import git from "../assets/skills/git.png";
-import github from "../assets/skills/github.png";
 
 const skills = [
     {
@@ -29,16 +29,16 @@ const skills = [
         src: node,
     },
     {
+        name: "Sequelize",
+        src: sequelize
+    },
+    {
         name: "MySQL",
         src: mysql,
     },
     {
         name: "Git",
         src: git,
-    },
-    {
-        name: "GitHub",
-        src: github,
     },
 ];
 
