@@ -9,7 +9,7 @@ Nos meus projetos mais recentes, desenvolvi pipelines ETL utilizando Apache Airf
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,linux,git,nextjs,typescript" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,nextjs,git" />
 </p>
 
 ---
