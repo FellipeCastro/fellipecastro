@@ -1,16 +1,17 @@
-## Hi there 👋
+# Fellipe Castro
 
-<!--
-**FellipeCastro/fellipecastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data & AI Engineer | Python, SQL, ETL, IA Generativa
 
-Here are some ideas to get you started:
+Gosto da área de Engenharia de Dados, Inteligência Artificial e automações. Atualmente trabalho desenvolvendo soluções que integram IA, APIs e bancos de dados, transformando processos manuais em fluxos automatizados e escaláveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nos meus projetos mais recentes, desenvolvi pipelines ETL utilizando Apache Airflow, aplicações Full Stack com Next.js e soluções de automação com n8n, OpenAI, Supabase e PostgreSQL. Também tenho experiência com tratamento de dados, integrações REST e desenvolvimento de soluções voltadas para produtividade e análise de dados.
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,linux,git,nextjs,typescript" />
+</p>
+
+---
+
+**Contato:** [LinkedIn](https://linkedin.com/in/fellipecastro27) | fehcastru@gmail.com
