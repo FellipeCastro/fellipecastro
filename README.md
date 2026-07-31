@@ -1,6 +1,6 @@
 # Fellipe Castro
 
-### Data & AI Engineer | Python, SQL, ETL, IA Generativa
+### Data & AI Engineer | Python, SQL, AWS, IA 
 
 Gosto da área de Engenharia de Dados, Inteligência Artificial e automações. Atualmente trabalho desenvolvendo soluções que integram IA, APIs e bancos de dados, transformando processos manuais em fluxos automatizados e escaláveis.
 
@@ -9,7 +9,7 @@ Nos meus projetos mais recentes, desenvolvi pipelines ETL utilizando Apache Airf
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,postgres,docker,nextjs,git" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,aws,nextjs,typescript,git" />
 </p>
 
 ---
