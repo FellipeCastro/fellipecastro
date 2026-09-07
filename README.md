@@ -12,4 +12,6 @@ Nos meus projetos mais recentes, desenvolvi pipelines de Engenharia de Dados int
 
 ---
 
-**Contato:** [LinkedIn](https://linkedin.com/in/fellipecastro27) | fehcastru@gmail.com
+**Linkedin:** https://linkedin.com/in/fellipecastro27 
+
+**E-mail:** fehcastru@gmail.com
