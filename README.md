@@ -8,7 +8,7 @@ Nos meus projetos mais recentes, desenvolvi pipelines de Engenharia de Dados int
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,postgres,docker,aws,gcp,nextjs,typescript,git" />
+<img src="https://skillicons.dev/icons?i=python,postgres,docker,aws,git" />
 
 ---
 
