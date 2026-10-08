@@ -1,6 +1,6 @@
 # Fellipe Castro
 
-### Engenheiro de Dados e IA | Python, SQL, AWS, Agentes de IA
+### Data Engineer & AI | Python, SQL, AWS, IA, ETL
 
 Engenheiro de Dados e IA com experiência em Python, SQL e AWS, focado em pipelines de dados escaláveis e soluções de Inteligência Artificial que transformam dados em valor de negócio.
 
