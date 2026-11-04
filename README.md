@@ -2,7 +2,7 @@
 
 ### AI Engineer | Generative AI, LLMs, AI Agents & RAG | Python, TypeScript, SQL & Data Pipelines
 
-AI Engineer com experiência em Python, TypeScript, SQL e cloud (AWS e GCP), focado em criar aplicações com LLMs, agentes de IA e automações inteligentes, sustentadas por pipelines de dados escaláveis que transformam dados em valor de negócio.
+Transformo dores de negócio em produtos com IA. Uso LLMs, agentes de IA e automações inteligentes, sustentadas por pipelines de dados escaláveis para entregar soluções de ponta a ponta, do protótipo à produção, somando análise de dados com IA.
 
 Lancei em produção o Iron AI, app de registro e progressão de treinos com cerca de 10 usuários ativos. Nele, a IA interpreta linguagem natural e um motor determinístico, coberto por testes, calcula progressão de carga, recordes e estagnação. 
 
