@@ -1,15 +1,18 @@
 # Fellipe Castro
 
-### Engenheiro de Dados | Python, SQL, AWS, IA, ETL
+### AI Engineer | Generative AI, LLMs, AI Agents & RAG | Python, TypeScript, SQL & Data Pipelines
 
-Engenheiro de Dados com experiência em Python, SQL e AWS, focado em pipelines de dados ETL escaláveis e soluções de Inteligência Artificial que transformam dados em valor de negócio.
+AI Engineer com experiência em Python, TypeScript, SQL e cloud (AWS e GCP), focado em criar aplicações com LLMs, agentes de IA e automações inteligentes, sustentadas por pipelines de dados escaláveis que transformam dados em valor de negócio.
 
-Nos meus projetos mais recentes, desenvolvi pipelines de Engenharia de Dados integrados a soluções de Inteligência Artificial, aplicando boas práticas de arquitetura e modelagem, como **Medallion Architecture, Star Schema, ETL/ELT, orquestração de workflows, modularização e automação de pipelines**. Utilizei tecnologias como **Python, SQL, Apache Airflow, dbt, BigQuery, Snowflake, AWS S3, AWS Glue, Athena, Docker, OpenAI, n8n e PostgreSQL**, construindo soluções escaláveis para ingestão, transformação, análise e automação de dados.
+Lancei em produção o Iron AI, app de registro e progressão de treinos com cerca de 10 usuários ativos. Nele, a IA interpreta linguagem natural e um motor determinístico, coberto por testes, calcula progressão de carga, recordes e estagnação. 
+
+Também construí um agente de dados com LangGraph que faz Text-to-SQL com guardrails e ETL via tool-calling, além de pipelines com RAG, análise de sentimento e Machine Learning (MLflow) sobre arquiteturas Medallion e Star Schema. Utilizei tecnologias como Python, TypeScript, Next.js, OpenAI, LangGraph, LangChain, n8n, Trigger.dev, PostgreSQL, AWS, GCP, Databricks, Snowflake, dbt, Apache Airflow e Docker.
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,postgres,docker,aws,git" />
+<img src="https://skillicons.dev/icons?i=python,ts,postgres,aws,gcp,docker,git" />
 
 ---
 
-**E-mail:** fehcastru@gmail.com 
+**E-mail:** fehcastru@gmail.com <br>
+**Linkedin:** [/fellipecastro27](https://linkedin.com/in/fellipecastro27)
