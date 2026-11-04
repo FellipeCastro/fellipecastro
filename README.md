@@ -10,7 +10,7 @@ Também construí um agente de dados com LangGraph que faz Text-to-SQL com guard
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,ts,postgres,aws,gcp,docker,git" />
+<img src="https://skillicons.dev/icons?i=python,ts,postgres,aws,docker,git" />
 
 ---
 
