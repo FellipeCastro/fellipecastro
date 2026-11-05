@@ -15,4 +15,4 @@ Também construí um agente de dados com LangGraph que faz Text-to-SQL com guard
 ---
 
 **E-mail:** fehcastru@gmail.com <br>
-**Linkedin:** [/fellipecastro27](https://linkedin.com/in/fellipecastro27)
+**Linkedin:** [in/fellipecastro27](https://linkedin.com/in/fellipecastro27)
